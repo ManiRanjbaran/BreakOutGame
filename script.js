@@ -207,10 +207,3 @@ function game() {
 }
 
 game();
-// Things i have to do for The next Session:
-
-// 1. Fix the ball moving out the board when difficulty is Clicked more than once
-// 2. Changing the difficulty will result in a restart
-// 3. The speed will change only once
-
-// i will turn the buttons off after being clicked once
